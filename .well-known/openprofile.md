@@ -2,7 +2,7 @@
 
 - **Kind**: person
 - **Handle**: anthony.ettinger
-- **Web**: https://sysops.ceo
+- **Web**: https://sysops.pwa.pit.world
 
 Founder, systems builder, and operator of software that ships.
 

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sysops.pwa.pit.world/sitemap.xml
